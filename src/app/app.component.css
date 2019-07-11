@@ -1,0 +1,31 @@
+#container{
+  background-image: url("C:\Users\Hp\weather\src\assets\img.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+   
+  }
+
+
+nav {
+    display: block;
+    background-image: url("C:\Users\Hp\weather\src\assets\2.html");
+   color:white;
+    text-align: center;
+  }
+
+  .temp{
+text-align: center;
+font-size: 250px;
+color:white;
+font-weight: bold;
+} 
+
+.max{
+  font-size:100px;
+  text-align: center;
+  color:white;
+  font-weight: bold;
+}

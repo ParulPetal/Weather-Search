@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ddfa4"],{"844f":function(n,t,c){"use strict";c.r(t),c.d(t,"updatePrintButtonListener",function(){return o});var e=c("371c");const o=()=>{const n=document.querySelectorAll(".print-svg");Object(e["a"])("[ PRINT-BUTTON-LISTENER ] - DIVS:",n),n.forEach(n=>{n.addEventListener("click",()=>{window.print()})})}}}]);
